@@ -1,0 +1,15 @@
+/Users/katherine/Documents/TTCrepo/bin/Debug/net5.0/TTCrepo.deps.json
+/Users/katherine/Documents/TTCrepo/bin/Debug/net5.0/TTCrepo.runtimeconfig.json
+/Users/katherine/Documents/TTCrepo/bin/Debug/net5.0/TTCrepo.runtimeconfig.dev.json
+/Users/katherine/Documents/TTCrepo/bin/Debug/net5.0/TTCrepo.dll
+/Users/katherine/Documents/TTCrepo/bin/Debug/net5.0/ref/TTCrepo.dll
+/Users/katherine/Documents/TTCrepo/bin/Debug/net5.0/TTCrepo.pdb
+/Users/katherine/Documents/TTCrepo/obj/Debug/net5.0/TTCrepo.csprojAssemblyReference.cache
+/Users/katherine/Documents/TTCrepo/obj/Debug/net5.0/TTCrepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katherine/Documents/TTCrepo/obj/Debug/net5.0/TTCrepo.AssemblyInfoInputs.cache
+/Users/katherine/Documents/TTCrepo/obj/Debug/net5.0/TTCrepo.AssemblyInfo.cs
+/Users/katherine/Documents/TTCrepo/obj/Debug/net5.0/TTCrepo.csproj.CoreCompileInputs.cache
+/Users/katherine/Documents/TTCrepo/obj/Debug/net5.0/TTCrepo.dll
+/Users/katherine/Documents/TTCrepo/obj/Debug/net5.0/ref/TTCrepo.dll
+/Users/katherine/Documents/TTCrepo/obj/Debug/net5.0/TTCrepo.pdb
+/Users/katherine/Documents/TTCrepo/obj/Debug/net5.0/TTCrepo.genruntimeconfig.cache
